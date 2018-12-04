@@ -1,6 +1,7 @@
 # Note
 
 this is the the fixed/improved version of [node-apk-parser](https://github.com/rubenv/node-apk-parser)
+fixed the glibc problem
 
 # apk-parser - Android apk-file parser
 
@@ -11,12 +12,12 @@ While there are some implementations for this out in the wild, none of them hand
 
 ## Getting started
 
-Add apk-parser to your project: `npm install --save apk-parser3`.
+Add apk-parser to your project: `npm install --save apk-parser4`.
 
 Sample usage:
 
 ```js
-var parseApk = require('apk-parser3');
+var parseApk = require('apk-parser4');
 parseApk('myApkFile.apk', function (err, data) {
     // Handle error or do something with data.
 });
