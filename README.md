@@ -1,7 +1,7 @@
 # Note
 
 this is the the fixed/improved version of [node-apk-parser](https://github.com/rubenv/node-apk-parser)
-fixed the glibc problem
+**fixed the glibc problem under centos64**
 
 # apk-parser - Android apk-file parser
 
