@@ -1,0 +1,16 @@
+{
+  "name": "apk-parser4",
+  "description": "Extract Android Manifest info from an APK file.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "gitlab",
+  },
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "android",
+    "apk"
+  ]
+}
