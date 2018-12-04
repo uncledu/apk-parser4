@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/uncledu/apk-parser4.git"
+    "url": "git@github.com:uncledu/apk-parser4.git"
   },
   "main": "lib/index.js",
   "engines": {
